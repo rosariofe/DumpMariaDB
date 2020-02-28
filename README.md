@@ -26,3 +26,4 @@ Exemplo: scp wordpress.sql wordpressuser@192.168.33.25:/var/www/sql/
 
 <kbd>mysql -u root -p wordpress < /var/www/sql/wordpress.sql </kbd>
 
+<h2> Fim, você migrou sua base de dados para um outro servidor <h2>
